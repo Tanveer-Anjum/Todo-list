@@ -2,7 +2,7 @@ function TodoName(){
 
     
     return <>
-    <h1>Todo List Here</h1>
+    <h1 className="todoName">Todo List Here</h1>
     </>
 
    

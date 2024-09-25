@@ -10,7 +10,7 @@ function AddItems(){
     <input type="date" placeholder="Enter Todo Here"></input>
     </div>
     <div class="col">
-    <button type="button" class="btn btn-success">Add</button>
+    <button type="button" class="btn btn-success my-btn">Add</button>
     </div>
   </div>
 </div>

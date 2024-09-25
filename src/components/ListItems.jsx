@@ -1,15 +1,20 @@
 function ListItems(){
+
+
+let todoName ='Mile is yami';
+let todoDate ='3/4/2024';
+
 return <>
 <div class="container">
   <div class="row">
     <div class="col">
-      Milk is yami
+     {todoName}
     </div>
     <div class="col">
-    3/4/2024
+    {todoDate}
     </div>
     <div class="col">
-    <button type="button" class="btn btn-danger">Delete</button>
+    <button type="button" class="btn btn-danger my-btn">Delete</button>
     </div>
   </div>
 </div>
